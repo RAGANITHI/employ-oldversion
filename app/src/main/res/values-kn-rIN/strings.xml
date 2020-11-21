@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Employ</string>
+    <string name="login">Login</string>
+    <string name="enter_your_10_digit_mobile_number">Enter Your 10 digit Mobile number</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_6_digit_code">Enter the 6 digit code</string>
+    <string name="verify">Verify</string>
+    <string name="complete_your_profile">Complete Your Profile</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="address">Address</string>
+    <string name="optional">Optional</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="save">Save</string>
+    <string name="enter_your_pancard">Enter Your Pan Card Number</string>
+    <string name="pan_card">Pan Card</string>
+    <string name="Adhaar">Adhaar Number</string>
+    <string name="enter_your_adhaar_number">Enter Your Adhaar Number</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="con">Continue</string>
+    <string name="hello_faheem">Hello Faheem,</string>
+</resources>
